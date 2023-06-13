@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(25, 25, 25);
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+}
