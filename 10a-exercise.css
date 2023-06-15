@@ -28,7 +28,7 @@
   font-weight: bold;
 }
 
-.gaming-button, .test-button {
+.gaming-button, .test-button, .music-button, .tech-button {
   background-color: black;
   color: white;
   border: none;
@@ -37,7 +37,7 @@
   font-family: Arial;
 }
 
-.is-toggled {
+.active {
   background-color: rgb(230,230,230);
   color: black;
   border: none;
